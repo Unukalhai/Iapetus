@@ -1,6 +1,3 @@
 [submodule "reimbursements"]
 	path = reimbursements
 	url = https://github.com/greg2010/reimbursements.git
-[submodule "crest"]
-	path = crest
-	url = https://github.com/Unukalhai/crest.git
